@@ -6,7 +6,7 @@ Neste projeto, veremos como realizar o controle de um micro servo através de um
 
 # Pré-requisitos
 É nescessário que seja realizada a instalação da IDE do arduino.
-SITE: www.arduino.cc
+# SITE: www.arduino.cc
  
 # Matérias 
 1 Unidade – Arduino Uno
