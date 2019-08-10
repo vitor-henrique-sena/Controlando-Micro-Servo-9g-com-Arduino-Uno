@@ -1,5 +1,5 @@
 # Controlando Micro Servo 9g com Arduino Uno
-![micro servo](Micro_servo_detalhes-300x200)
+![micro servo](Micro_servo_detalhes-300x200.jpg)
 
 # Descrição 
 Neste projeto, veremos como realizar o controle de um micro servo através de um arduino UNO
@@ -13,7 +13,7 @@ SITE: www.arduino.cc
 1 Unidade – Jumper Macho Macho
 1 Unidade – Micro Servo 9g
 1 Unidade – Chave Philips
-![servo matérias](servo_bb-300x221)
+![servo matérias](servo_bb-300x221.jpg)
 
 # Créditos 
 http://blog.baudaeletronica.com.br/micro-servo-9g-com-arduino/
